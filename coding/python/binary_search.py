@@ -3,7 +3,6 @@
 import random
 from typing import List, Optional
 
-
 def binary_search(arr: List[int], lb: int, ub: int, target: int) -> Optional[int]:
     """
     A Binary Search Example which has O(log n) time complexity.
